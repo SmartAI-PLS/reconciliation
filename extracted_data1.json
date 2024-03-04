@@ -1,0 +1,16 @@
+{
+    "CompanyName":"Com1",
+    "Address":"Add1",
+    "Products":[
+        {
+            "Description":"Iphone14",
+            "Quantity":10,
+            "IsMilestone":0,
+            "UnitPrice":40000,
+            "Price":400000
+        }
+    ],
+    "Taxes":50000,
+    "Total":450000,
+    "Type":"PurchaseOrder"
+}

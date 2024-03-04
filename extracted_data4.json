@@ -1,0 +1,16 @@
+{
+    "CompanyName":"Com1",
+    "Address":"Add1",
+    "Products":[
+        {
+            "Description":"Maintainance",
+            "Quantity":50,
+            "IsMilestone":1,
+            "UnitPrice":30000,
+            "Price":300000
+        }
+    ],
+    "Taxes":25000,
+    "Total":325000,
+    "Type":"Invoice"
+}

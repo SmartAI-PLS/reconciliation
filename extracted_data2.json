@@ -1,0 +1,23 @@
+{
+    "CompanyName":"Com1",
+    "Address":"Add1",
+    "Products":[
+        {
+            "Description":"Maintainance",
+            "Quantity":100,
+            "IsMilestone":1,
+            "UnitPrice":30000,
+            "Price":600000
+        },
+        {
+            "Description":"Iphone13",
+            "Quantity":5,
+            "IsMilestone":0,
+            "UnitPrice":50000,
+            "Price":250000
+        }
+    ],
+    "Taxes":100000,
+    "Total":950000,
+    "Type":"PurchaseOrder"
+}

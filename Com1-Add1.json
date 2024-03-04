@@ -1,0 +1,1 @@
+{"CompaniesIdentifier": "Com1-Add1.json", "DescriptionSet": ["Iphone14", "Maintainance", "Iphone13"], "ReconciliationStatus": {"Total": 1075000, "Descrepencies": {"Iphone14": [10, 400000, 0], "Maintainance": [50, 300000, 1], "Iphone13": [5, 250000, 0]}}}
